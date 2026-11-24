@@ -90,3 +90,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: browser-password-export, browser, password, export, chrome, firefox, edge, encrypted, backup, cli, developer-tools, open-source, windows, automation, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+browser password export chrome firefox edge encrypted backup password-export-tool browser-pass-backup browser-password-export windows portable prebuilt x64 free download
+related: browser, password, export, chrome, firefox, edge, encrypted, backup
